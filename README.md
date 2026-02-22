@@ -1,14 +1,3 @@
----
-title: Book Recommender
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 6.6.0
-app_file: app.py
-pinned: false
-short_description: 'Book search/rec based on vector search: Query - Book desc'
----
-
 Link to app: https://huggingface.co/spaces/rakeshjv2000/book-recommender
 
 # 📚 Semantic Book Recommender
